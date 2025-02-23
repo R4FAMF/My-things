@@ -1,90 +1,117 @@
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/a-bola-tv-pt.png?raw=true",A Bola
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB9IpnEswbqpGCAkrO3Wfr1nzH-ORtgbFBtBK9Fm1tpDG
+
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-hd-pt.png?raw=true",Benfica TV
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB2OK-ZOEK1oD_ieIPmpUYDcCEQEmMsuzIHiIS4-pVkJp
-#EXTINF:-1 tvg-logo="countries/portugal/canal11-pt.png",Canal 11
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/canal11-pt.png?raw=true",Canal 11
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB5_oJla0B8Kb3vej_1_DocksbKUefZfc0j_ml2aGEaF1
-#EXTINF:-1,CMTV
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/cmtv-pt.png?raw=true",CMTV
 #EXTGRP:Notícias
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB8Qb1Grmhduiswg0pGkFi7XsL1RGEvPwZ2J0mHhKU8pw
-#EXTINF:-1,CNN Portugal
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/cnn-portugal-pt.png?raw=true",CNN Portugal
 #EXTGRP:Notícias
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB8qOoeF6gg1f4vpRmsoP6jWc36q4o8ZzSqSMqGOApiXH
-#EXTINF:-1,DAZN 1
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-1-be.png?raw=true",DAZN 1
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB6XqDIMuoVFiTvTKXRjD78CAzQj_57J_6xv2pkYHE516
-#EXTINF:-1,DAZN 2
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-2-be.png?raw=true",DAZN 2
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRBwRFYM74jMbMPFnGZwZ_BmBwxDX9dY9ySb38Susn5OZo
-#EXTINF:-1,DAZN 3
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-3-be.png?raw=true",DAZN 3
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB2NLYEUjQPwrWdgExArsEyYykI8RO6YqmHFl9PV1LFzW
-#EXTINF:-1,DAZN 4
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-4-be.png?raw=true",DAZN 4
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB0IbNFqm6l-VfjFLKZtYxJDJzrC6NmNwZiYZwvuxYIuZ
-#EXTINF:-1,DAZN 5
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-5-be.png?raw=true",DAZN 5
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRBwQjG9NeZJOeDUlx51t0SO_E5_mAU5VBzwhpJMD_5vXZ
-#EXTINF:-1,DAZN 6
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/belgium/dazn-6-be.png?raw=true",DAZN 6
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRBwo75PdNE0qg9fF3JRw7uOCT1E7VnvcYbJTszgR73ZF0
-#EXTINF:-1,Eurosport 1
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/eurosport-1-fr.png?raw=true",Eurosport 1
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB8MYK0sdz4z22SgmL7Nxy0nMZqg-KaXegtIW45cxTuJ9
-#EXTINF:-1,Eurosport 2
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/eurosport-2-fr.png?raw=true",Eurosport 2
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB7R6NWexZmlunTR0dfM-u7c-W5E1MEV1csrLqbymuIWP
-#EXTINF:-1,Porto Canal
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/porto-canal-hd-pt.png?raw=true",Porto Canal
 #EXTGRP:Notícias
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB66crNf862pliR_vC3_H7KF_5Oeh9uAQlhRZ5YqtY3wq
-#EXTINF:-1,RTP 1
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/rtp-1-hd-pt.png?raw=true",RTP 1
 #EXTGRP:Notícias
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB_4X3rsp_7e3Hcb-P64ROEoxl_NzW2satYiYdelAtytJ
-#EXTINF:-1,RTP 2
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/rtp-2-hd-pt.png?raw=true",RTP 2
 #EXTGRP:Notícias
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB8C7zh-PTsxZe6uXL69_FicrErJesfsItDXs8b3re2Uy
-#EXTINF:-1,RTP 3
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/rtp-3-hd-pt.png?raw=true",RTP 3
 #EXTGRP:Notícias
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB9r6LOThfQE3Mfa4se6IOLWlxiUAJ7dLuqfZQivVZy2X
-#EXTINF:-1,SIC
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sic-hd-pt.png?raw=true",SIC
 #EXTGRP:Notícias
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRByQYZtydSnSwEf97BGomThrp7BssFZXNlygguAkf8Geu
-#EXTINF:-1,SIC Notícias
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sic-noticias-pt.png?raw=true",SIC Notícias
 #EXTGRP:Notícias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1,Sport TV +
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-mais-pt.png?raw=true",Sport TV +
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB547UcnSLlAjWs1EbmEOGjv3iB_YMm0voQlxUKmho88F
-#EXTINF:-1,Sport TV 1
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true",Sport TV 1
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRBw6tmxFML63q3ftvUqZbCoGrl9kx8B2ZpQEzhmzTXUUV
-#EXTINF:-1,Sport TV 2
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true",Sport TV 2
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB3JrQpwSGOedyG8tr_foZZX1RSon-vWK00FUmPpYBEwY
-#EXTINF:-1,Sport TV 3
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true",Sport TV 3
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB-Tr8lew3g6KyfSrobUefChIfQTa9i9Tc5YFnBqtLjE1
-#EXTINF:-1,Sport TV 4
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true",Sport TV 4
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB3gzpZZ_AEBk79YoMErxXml71BuZzK072O0kdFyx5aWI
-#EXTINF:-1,Sport TV 5
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true",Sport TV 5
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB0_044vWtOCv_kq1RuhwNRIdIxV3HWpvfSPCXhKJibqM
-#EXTINF:-1,Sport TV 6
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-6-pt.png?raw=true",Sport TV 6
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRBw2d_NNWgN0uopxbja37XHGWdCMOMEij3D_G_cqHrItE
-#EXTINF:-1,Sport TV NBA
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/nba-logo.png",Sport TV NBA
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRBze23vTMWrAQ3nz9CnNFWv3z--X3ZDAY9gUCiZC6tiL4
-#EXTINF:-1,TVI
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/tvi-hd-pt.png?raw=true",TVI
 #EXTGRP:Notícias
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB7RP-4ntx7sNf5MBRKTh_p_MBtIjwMy_Lbqm7OPyDkC4
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Praia de Âncora
