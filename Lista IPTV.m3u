@@ -4,7 +4,7 @@ http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB9IpnEswbqpGCAkrO3Wfr1nz
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-hd-pt.png?raw=true",Benfica TV
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB2OK-ZOEK1oD_ieIPmpUYDcCEQEmMsuzIHiIS4-pVkJp
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/canal11-pt.png?raw=true",Canal 11
+#EXTINF:-1 tvg-logo="countries/portugal/canal11-pt.png",Canal 11
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB5_oJla0B8Kb3vej_1_DocksbKUefZfc0j_ml2aGEaF1
 #EXTINF:-1,CMTV
