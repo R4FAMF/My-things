@@ -1,7 +1,7 @@
 #EXTINF:-1,A Bola
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB9IpnEswbqpGCAkrO3Wfr1nzH-ORtgbFBtBK9Fm1tpDG
-#EXTINF:-1,Benfica TV
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/btv-hd-pt.png",Benfica TV
 #EXTGRP:Desporto
 http://churrascodecasa.shop:80/play/Dj46-Hw5x_9Cy5evEJPRB2OK-ZOEK1oD_ieIPmpUYDcCEQEmMsuzIHiIS4-pVkJp
 #EXTINF:-1,Canal 11
